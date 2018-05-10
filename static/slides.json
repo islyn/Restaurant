@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "宫保鸡丁",
+    "src": "./static/1.jpg",
+    "type":"广州风味"
+  },
+  {
+    "id": 2,
+    "title": "糖醋里脊",
+    "src": "./static/2.png",
+    "type":"川渝风味"
+  },
+  {
+    "id": 3,
+    "title": "香辣牛肉",
+    "src": "./static/3.jpg",
+    "type":"广州风味"
+  },
+  {
+    "id": 4,
+    "title": "干煸豆角",
+    "src": "./static/4.png",
+    "type":"广州风味"
+  },
+  {
+    "id": 5,
+    "title": "宫保鸡丁",
+    "src": "./static/1.jpg",
+    "type":"广州风味"
+  },
+  {
+    "id": 6,
+    "title": "糖醋里脊",
+    "src": "./static/2.png",
+    "type":"川渝风味"
+  }
+]
